@@ -7,7 +7,7 @@
 }
 body{
     font-size: 100%;
-    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+    background: linear-gradient(68.15deg, #2F2325 16.62%, #b573ec 85.61%);
 }
 .cabecalho{
     display: flex;
@@ -17,7 +17,7 @@ body{
     padding: 24px;
 }
 .cabecalho-logo{
-height: 72px;
+height: 40px;
 }
 .cabecalho-menu{
     display: flex;
@@ -66,8 +66,13 @@ height: 72px;
     font-size: 20px;
     color: #0c0b0b
 }
+.conteudo-principal-escrito-botao:hover{
+    background-color: white;
+    color: #7112c0;
+}
 .conteudo-principal-imagem{
-    height: 415px;
+    height: 340px;
+    border-radius: 100%;
 }
 .conteudo-secundario{
     display: flex;
