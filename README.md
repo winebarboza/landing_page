@@ -6,7 +6,7 @@
 
 ## 📝 Descrição 
 
-Página inicial de um bot para o Discord com o intuito de manter o servidor limpo de
+Página inicial de um bot para o Discord feito acompanhando o processo de desenvolvimento da Rafaella Ballerini com o intuito de manter o servidor limpo de
 usuários falsos. 
 
 ## 🚀 Tecnologias
